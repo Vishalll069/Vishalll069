@@ -8,8 +8,8 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Vishalll069&count_private=true&show_icons=true&theme=onedark" alt="himanshu-sharma" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=vishalll069&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="himanshu-sharma" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Vishalll069&count_private=true&show_icons=true&theme=onedark" alt="Vishal-Durge" />
+    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=vishalll069&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="Vishal-Durge" />
     
 </div>
 
