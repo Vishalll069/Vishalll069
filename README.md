@@ -1,7 +1,7 @@
 <h1 align="center" >Hi 👋, I'm Vishal</h1>
-<h4 align="center">
+<h3 align="center">
 Highly passionate and user-focused Developer adept incollaborating with teams to plan the technical writing andexecution of functional specifications for websites andapplications looking for a good opportunity which can helpme in enhancing my skills.
-</h4>
+</h3>
 
 <br/>
 
@@ -17,7 +17,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalll069&theme=onedark" alt="vishalll069" /></a> </p>
 
-## TECH STACK
+## TECH STACK :
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -34,6 +34,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 <p align="left">  
 <a href="https://www.linkedin.com/in/vishal-durge-745275210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-durge-745275210/" height="30" width="40" /></a> 
 <a href="https://twitter.com/fullstuckVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vishalll069/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vishalll069/" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
@@ -43,8 +44,9 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 </a>
 <a href="https://github.com/vishalll069?tab=followers"><img src="https://img.shields.io/github/followers/vishalll069?label=Followers&style=social" alt="GitHub Badge"></a>
 
- 
-### [Portfolio](https://vishalll069.github.io/)
+ <hr/>
+
+# [Portfolio](https://vishalll069.github.io/)
 
 
 
