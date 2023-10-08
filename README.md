@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center" style="color:white; text-decoration: none;">Hi 👋, I'm Vishal</h1>
 <br/>
 
 
 <!-- <hr/>  -->
-<h3 align="center">
+<h3 align="center" style="color:white; text-decoration: none;">
 Highly passionate and user-focused Developer adept incollaborating with teams to plan the technical writing andexecution of functional specifications for websites andapplications looking for a good opportunity which can helpme in enhancing my skills.
 </h3>
 
