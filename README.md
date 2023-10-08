@@ -1,5 +1,6 @@
-<h1 align="center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Vishal</h1>
-<p align="center">
+<h1 align="center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Vishal </h1>
+
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Develop%20Things%20On%20Web;And;I%20Watch%20Animes;&center=true&width=500&height=50">
 </p>
 
