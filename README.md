@@ -1,9 +1,11 @@
-<h1 align="center" >Hi, I'm Vishal</h1>
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Develop%20Things%20On%20Web;And;I%20Watch%20Animes;&center=true&width=500&height=50">
-</p>
+<h1 align="center">Hi, I'm Vishal</h1>
 
-<hr/>
+<br/>
+<!-- <p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Develop%20Things%20On%20Web;And;I%20Watch%20Animes;&center=true&width=500&height=50">
+</p> -->
+
+<!-- <hr/>  -->
 <h3 align="center">
 Highly passionate and user-focused Developer adept incollaborating with teams to plan the technical writing andexecution of functional specifications for websites andapplications looking for a good opportunity which can helpme in enhancing my skills.
 </h3>
